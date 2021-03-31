@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+
+h1 {
+
+    font-size: 40px;
+    font-family: 'Cinzel Decorative', cursive;
+    font-weight: 300;
+
+}
+
+
+#name {
+    font-size: 50px;
+    line-height: 1.2;
+    font-family: 'Cinzel Decorative', cursive;
+
+}
